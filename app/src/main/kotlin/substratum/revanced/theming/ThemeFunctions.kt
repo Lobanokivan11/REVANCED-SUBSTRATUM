@@ -1,13 +1,13 @@
-package substratum.theme.template
+package substratum.revanced.theming
 
 import android.annotation.SuppressLint
 import android.content.Context
 import android.content.pm.PackageManager
 import android.content.pm.Signature
 import android.os.RemoteException
-import substratum.theme.template.AdvancedConstants.BLACKLISTED_APPLICATIONS
-import substratum.theme.template.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
-import substratum.theme.template.AdvancedConstants.OTHER_THEME_SYSTEMS
+import substratum.revanced.theming.AdvancedConstants.BLACKLISTED_APPLICATIONS
+import substratum.revanced.theming.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
+import substratum.revanced.theming.AdvancedConstants.OTHER_THEME_SYSTEMS
 
 @Suppress("ConstantConditionIf")
 object ThemeFunctions {

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.YouTube.Launcher" parent="@*com.revanced.android.youtube:style/Theme.AppCompat.NoActionBar" >
+        <item name="android:windowSplashScreenBackground">@*com.revanced.android.youtube:color/yt_black1</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@*com.revanced.android.youtube:drawable/avd_anim</item>
+        <item name="android:windowSplashScreenAnimationDuration">1000</item>
+	</style>
+</resources>
