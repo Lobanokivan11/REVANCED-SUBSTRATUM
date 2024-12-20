@@ -5,7 +5,7 @@ object ThemerConstants {
     // Whether this theme supports third party theme systems, we will not be able to help you debug
     // your themes on external theming systems, so the team will NOT respond to external systems if
     // there are issues with your theme (DEFAULT: false)
-    const val SUPPORTS_THIRD_PARTY_SYSTEMS = false
+    const val SUPPORTS_THIRD_PARTY_SYSTEMS = true
 
     // Play Store AntiPiracy LVL configurations
     const val BASE_64_LICENSE_KEY = ""
